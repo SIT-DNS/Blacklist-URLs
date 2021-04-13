@@ -1,0 +1,85 @@
+# Amazon Prime Video
+aiv-cdn.net
+aiv-cdn.net.c.footprint.net
+aiv-delivery.net
+amazonvideo.com
+atv-ext.amazon.com
+atv-ps.amazon.com
+d25xi40x97liuc.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
+media-amazon.com
+primevideo.com
+
+# Apple TV+
+tv.apple.com
+
+# DAZN
+dazn.com
+daznfeeds.com
+daznservices.com
+eplayer2sp-vh.akamaihd.net
+
+# Disney+
+disney-plus.net
+disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
+dssott.com
+dssott.com.akamaized.net
+search-api-disney.bamgrid.com
+
+# Joyn
+joyn.de
+
+# Magenta TV
+magentatv.de
+web.magentatv.de
+
+# Maxdome
+maxdome.de
+store.maxdome.de
+
+# Netflix
+netflix.com
+netflix.net
+nflxext.com
+nflximg.com
+nflximg.net
+nflxso.net
+nflxvideo.net
+
+# Sky
+sky.com
+sky.com.edgekey.net
+sky.de
+sky.it
+skynews.com
+skyq.info
+
+# TikTok
+abtest-va-tiktok.byteoversea.com
+bytecdn.cn
+byted.org
+byteoversea.com
+byteoversea.net
+ibytedtos.com
+isnssdk.com
+muscdn.com
+musemuse.cn
+musical.ly
+p16-tiktok-sg.ibyteimg.com
+p16-tiktok-sign-va-h2.ibyteimg.com
+p16-tiktok-va-h2.ibyteimg.com
+p16-tiktok-va.ibyteimg.com
+p16-tiktokcdn-com.akamaized.net
+p16-va-tiktok.ibyteimg.com
+sgsnssdk.com
+tiktok.bytedance.map.fastly.net
+tiktok.com
+tiktok.com.c.footprint.net
+tiktokcdn-in.com
+tiktokcdn.com
+tiktokcdn.com.c.bytetcdn.com
+tiktokcdn.com.c.worldfcdn.com
+tiktokcdn.com.wsdvs.com
+tiktokcdn.liveplay.myqcloud.com
+tiktokv.com
